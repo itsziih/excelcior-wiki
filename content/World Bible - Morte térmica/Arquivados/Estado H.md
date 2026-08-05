@@ -1,0 +1,1 @@
+Uma constante da matéria

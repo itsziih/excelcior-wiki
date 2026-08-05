@@ -1,0 +1,1 @@
+- Dispositivos que dobram, dobram ou rompem o espaço para permitir que a nave "salte" instantaneamente de sua localização atual para um destino pré-calculado.
